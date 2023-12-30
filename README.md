@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫I'M:
 Experienced IT Engineer with a proven track record of designing, implementing, and maintaining robust IT solutions that enhance operational efficiency and drive business growth. Adept at translating complex technical concepts into understandable terms for both technical and non-technical stakeholders. Skilled in system troubleshooting, and project management. Committed to staying up-to-date with the latest industry trends and technologies to deliver innovative and reliable IT solutions. #ITsolutions #technicalstakeholders #projectmanagement #innovation #reliability 
 
 
