@@ -1,6 +1,5 @@
-# 💫I'M:
-Experienced IT Engineer with a proven track record of designing, implementing, and maintaining robust IT solutions that enhance operational efficiency and drive business growth. Adept at translating complex technical concepts into understandable terms for both technical and non-technical stakeholders. Skilled in system troubleshooting, and project management. Committed to staying up-to-date with the latest industry trends and technologies to deliver innovative and reliable IT solutions. #ITsolutions #technicalstakeholders #projectmanagement #innovation #reliability 
-
+# I'M:
+B.Tech. IT Engineering Final year student with a passion for programming and a strong interest in cybersecurity. Proven ability to develop and implement innovative projects, combining technical expertise with a keen understanding of security principles.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/danend.krishnan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/danendkrishnan_nair) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/danend-krishnan) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/DanendK) 
