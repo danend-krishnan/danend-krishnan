@@ -2,8 +2,7 @@
 ![6a727fbad9da6105c529b6a9dacd2826](https://github.com/user-attachments/assets/7eb51d56-95be-457a-8266-9c7c4fd092e2)
 
 Building the Web, Breaking the Bugs – Engineer by Skill, Hunter by Will!
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/danend.krishnan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/danendkrishnan_nair)  ![original-11f915d14a012587bef6044799b0d9c5](https://github.com/user-attachments/assets/c6524e48-aa03-4349-964c-afb2194f49a3) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/danend-krishnan) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/DanendK) 
+
 
 
 
