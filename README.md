@@ -1,4 +1,5 @@
 # I'M:🛠️ Crafting Code | Hunting Bugs | Elevating the Web  
+![6a727fbad9da6105c529b6a9dacd2826](https://github.com/user-attachments/assets/7eb51d56-95be-457a-8266-9c7c4fd092e2)
 
 Building the Web, Breaking the Bugs – Engineer by Skill, Hunter by Will!
 ## 🌐 Socials:
